@@ -1,4 +1,4 @@
-1. git init
+ p1. git init
 2. git remote add origin + сылка на папку в githab
 3. git push origin master "Создаем мастер ветку, регистрируем среду на GitHub"
 4. git status
